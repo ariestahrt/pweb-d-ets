@@ -2,8 +2,8 @@
 
 ## Identitas
 
-I Kadek Agus Ariesta Putra
-05111940000105
-PWEB D
+- I Kadek Agus Ariesta Putra
+- 05111940000105
+- PWEB D
 
-Live preview : [Preview](http://pweb-d-ets.ariestahrt.github.io)
+Live preview : [Preview](https://ariestahrt.github.io/pweb-d-ets/)
